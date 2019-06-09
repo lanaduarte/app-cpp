@@ -1,1 +1,1 @@
-# app-cpp
+# Projeto para estudo de C++
